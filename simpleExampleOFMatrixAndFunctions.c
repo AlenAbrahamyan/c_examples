@@ -8,7 +8,7 @@ int main() {
 	int i, j, n;
 	printf("Enter the dimension of the matrix: ");
 	//we are declaring our matrix size 
-	//ooo
+	
     scanf("%d", &n);
 	int arr[n][n];
 	time_t t1;
