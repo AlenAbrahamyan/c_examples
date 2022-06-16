@@ -34,3 +34,4 @@ int main(void)
  artacum(fp,eranishtiv);
  return 0;
 }
+//////
